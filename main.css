@@ -58,9 +58,9 @@ box-sizing: border-box;
 
  .amount input{
  height: 30px;
- font-size:16px;
+ font-size:24px;
  background-color:#f1f5f9;
- color:#1e293b;
+ color:#254c8b;
 }
 
 .dropdown{
@@ -160,7 +160,8 @@ form{
      border-radius: 10px;
      border:2px solid grey;
      font-size:20px;
-     color:rgba(241, 0, 0, 0.928)
+     color:#065f46;
+     background-color: #ecfdf5;
 }
 
  /* making it responsive */
