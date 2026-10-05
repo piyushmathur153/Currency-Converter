@@ -19,7 +19,7 @@ A dynamic and responsive Currency Converter web application that provides real-t
 * [Flags API](https://flagsapi.com/) - For rendering country flag images.
 
 **How to Run This Project**
-1. Clone this repository to your local machine: `git clone <your-repo-link>`
+1. Clone this repository to your local machine: `git clone https://github.com/piyushmathur153/Currency-Converter.git`
 2. Open the project folder in VS Code.
 3. Open `main.html` in your web browser (or use the VS Code Live Server extension).
 4. Enter an amount, select your currencies, and click "Get Conversion Rate".
